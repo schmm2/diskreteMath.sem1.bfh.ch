@@ -1,0 +1,85 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Grundlagen}{4}
+\contentsline {section}{\numberline {1.1}Quadratische Erg\IeC {\"a}nzung}{4}
+\contentsline {chapter}{\numberline {2}Logik (Boolesche Algebra)}{5}
+\contentsline {section}{\numberline {2.1}Aussagen}{5}
+\contentsline {section}{\numberline {2.2}Konjunktion}{5}
+\contentsline {section}{\numberline {2.3}Disjunktion}{6}
+\contentsline {section}{\numberline {2.4}Implikation}{8}
+\contentsline {subsection}{\numberline {2.4.1}Umkehrung, Kontraposition}{11}
+\contentsline {section}{\numberline {2.5}Aequivalenz}{12}
+\contentsline {section}{\numberline {2.6}Logische Schl\IeC {\"u}sse}{15}
+\contentsline {section}{\numberline {2.7}Pr\IeC {\"a}dikatenlogik}{20}
+\contentsline {subsection}{\numberline {2.7.1}Zwei Pr\IeC {\"a}dikate}{22}
+\contentsline {subsection}{\numberline {2.7.2}Zweiwertige Pr\IeC {\"a}dikate}{23}
+\contentsline {chapter}{\numberline {3}Mengen}{25}
+\contentsline {section}{\numberline {3.1}M\IeC {\"a}chtigkeit}{25}
+\contentsline {subsection}{\numberline {3.1.1}Aufz\IeC {\"a}hlung}{25}
+\contentsline {subsection}{\numberline {3.1.2}Charakterisierung}{25}
+\contentsline {subsection}{\numberline {3.1.3}Euler-Venn-Diagramm}{25}
+\contentsline {section}{\numberline {3.2}Vollst\IeC {\"a}ndige Induktion}{27}
+\contentsline {section}{\numberline {3.3}Teilmengen}{30}
+\contentsline {subsection}{\numberline {3.3.1}Intervalle}{32}
+\contentsline {section}{\numberline {3.4}Operationen mit Mengen}{33}
+\contentsline {subsection}{\numberline {3.4.1}Schnittmenge}{33}
+\contentsline {subsection}{\numberline {3.4.2}Vereinigungsmenge}{34}
+\contentsline {subsubsection}{Beweis mit Hilfe der Definitionen}{35}
+\contentsline {subsubsection}{Beweis mit 2 Diagrammen}{35}
+\contentsline {subsection}{\numberline {3.4.3}Komplement}{36}
+\contentsline {subsection}{\numberline {3.4.4}Differenz}{37}
+\contentsline {subsection}{\numberline {3.4.5}Symetrische Differenz}{40}
+\contentsline {section}{\numberline {3.5}Kartesisches Produkt}{40}
+\contentsline {chapter}{\numberline {4}Relationen}{47}
+\contentsline {section}{\numberline {4.1}Darstellung von Relationen}{47}
+\contentsline {section}{\numberline {4.2}Eigenschaften}{52}
+\contentsline {section}{\numberline {4.3}Kongruenz}{58}
+\contentsline {subsection}{\numberline {4.3.1}Die Kongruenzrelation $a \equiv b$ ($\penalty \z@ \mkern 12mu{\mathgroup \symoperators mod}\tmspace +\thinmuskip {.1667em}\tmspace +\thinmuskip {.1667em}m$)}{60}
+\contentsline {section}{\numberline {4.4}Restklassen}{61}
+\contentsline {section}{\numberline {4.5}Inverse Restklassen}{69}
+\contentsline {section}{\numberline {4.6}Satz von Euler-Fermat}{73}
+\contentsline {subsection}{\numberline {4.6.1}Satz von Fermat}{73}
+\contentsline {subsection}{\numberline {4.6.2}Satz von Euler Fermat}{75}
+\contentsline {chapter}{\numberline {5}Funktionen}{78}
+\contentsline {section}{\numberline {5.1}Definitions- und Bildmenge}{78}
+\contentsline {chapter}{\numberline {6}Kurzreferenz}{79}
+\contentsline {section}{\numberline {6.1}Definitionen}{79}
+\contentsline {subsection}{\numberline {6.1.1}nat\IeC {\"u}rliche Zahlen}{79}
+\contentsline {subsection}{\numberline {6.1.2}ganze Zahlen}{79}
+\contentsline {subsection}{\numberline {6.1.3}rationale Zahlen}{79}
+\contentsline {subsection}{\numberline {6.1.4}irrationale Zahlen}{80}
+\contentsline {subsection}{\numberline {6.1.5}reele Zahlen}{80}
+\contentsline {subsection}{\numberline {6.1.6}Kardionalit\IeC {\"a}t}{80}
+\contentsline {subsection}{\numberline {6.1.7}Primzahlen}{80}
+\contentsline {section}{\numberline {6.2}Gesetze der boolschen Algebra}{81}
+\contentsline {subsection}{\numberline {6.2.1}Kommutativgesetz (Vertauschungsgesetz)}{81}
+\contentsline {subsection}{\numberline {6.2.2}Assoziativgesetz (Verbindungsgesetz)}{81}
+\contentsline {subsection}{\numberline {6.2.3}Distributivgesetz (Verteilungsgesetz)}{81}
+\contentsline {subsection}{\numberline {6.2.4}Absorptionsgesetz}{81}
+\contentsline {subsection}{\numberline {6.2.5}Gesetz von De Morgan}{81}
+\contentsline {subsection}{\numberline {6.2.6}Implikation}{81}
+\contentsline {subsubsection}{Umkehrung}{81}
+\contentsline {subsubsection}{Kontraposition}{81}
+\contentsline {subsection}{\numberline {6.2.7}Aequivalenz}{82}
+\contentsline {subsection}{\numberline {6.2.8}Pr\IeC {\"a}dikatenlogik}{82}
+\contentsline {section}{\numberline {6.3}Mengen}{82}
+\contentsline {subsection}{\numberline {6.3.1}Pascalsches Dreieck}{82}
+\contentsline {subsection}{\numberline {6.3.2}Vollst\IeC {\"a}ndige Induktion}{82}
+\contentsline {subsection}{\numberline {6.3.3}Teilmengen}{83}
+\contentsline {subsection}{\numberline {6.3.4}Schnittmenge}{83}
+\contentsline {subsection}{\numberline {6.3.5}Vereinigungsmenge}{84}
+\contentsline {subsection}{\numberline {6.3.6}Komplement}{84}
+\contentsline {subsection}{\numberline {6.3.7}Differenz}{84}
+\contentsline {subsection}{\numberline {6.3.8}Symetrische Differenz}{85}
+\contentsline {subsection}{\numberline {6.3.9}Kartesisches Produkt}{85}
+\contentsline {subsubsection}{Distributivit\IeC {\"a}t}{85}
+\contentsline {section}{\numberline {6.4}Relationen}{86}
+\contentsline {subsection}{\numberline {6.4.1}Eigenschaften}{86}
+\contentsline {subsection}{\numberline {6.4.2}Teilt}{86}
+\contentsline {subsection}{\numberline {6.4.3}Datumsbestimmung}{86}
+\contentsline {subsection}{\numberline {6.4.4}Kongruenz}{87}
+\contentsline {subsection}{\numberline {6.4.5}Kongruenzrelation}{87}
+\contentsline {subsection}{\numberline {6.4.6}Restklassen}{87}
+\contentsline {subsection}{\numberline {6.4.7}Inverse Restklasse}{87}
+\contentsline {subsubsection}{Phi Funktion}{87}
+\contentsline {subsubsection}{Diophantische Gleichung}{87}
+\contentsline {subsubsection}{Satz von Euler Fermat }{87}
